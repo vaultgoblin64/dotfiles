@@ -10,6 +10,9 @@ alias ll='lsd -la'
 alias la='lsd -A'
 alias l='lsd -CF'
 
+# neovim accessibility
+alias vim='nvim'
+
 # Safety nets
 alias rm='rm -i'
 alias cp='cp -i'
