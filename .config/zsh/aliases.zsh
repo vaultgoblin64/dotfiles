@@ -5,6 +5,7 @@
 alias dotfiles='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
 # Common shortcuts
+alias ls='lsd'
 alias ll='lsd -la'
 alias la='lsd -A'
 alias l='lsd -CF'
