@@ -22,6 +22,5 @@ fi
 # Plugin settings
 ZSH_AUTOSUGGEST_MANUAL_REBIND=1
 
-# Load plugins
-source "$PLUGIN_DIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+# Load plugins (syntax-highlighting loaded last in .zshrc)
 source "$PLUGIN_DIR/zsh-autosuggestions/zsh-autosuggestions.zsh"

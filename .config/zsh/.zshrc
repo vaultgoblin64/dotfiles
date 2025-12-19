@@ -13,3 +13,6 @@ source "$ZDOTDIR/aliases.zsh"      # Command aliases
 source "$ZDOTDIR/plugins.zsh"      # Plugin management
 source "$ZDOTDIR/completion.zsh"   # Completion system (uses functions.zsh)
 source "$ZDOTDIR/prompt.zsh"       # Prompt/theme
+
+# Syntax highlighting must be loaded LAST
+source "$ZDOTDIR/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
