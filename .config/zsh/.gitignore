@@ -1,0 +1,6 @@
+# Plugins (auto-installed, don't track)
+plugins/
+
+# Compiled files
+*.zwc
+.zcompdump
