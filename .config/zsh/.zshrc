@@ -8,6 +8,7 @@ fi
 
 # Load modular config files in order
 source "$ZDOTDIR/functions.zsh"    # Helper functions (needed by other files)
+source "$ZDOTDIR/history.zsh"      # History configuration
 source "$ZDOTDIR/exports.zsh"      # Environment variables
 source "$ZDOTDIR/aliases.zsh"      # Command aliases
 source "$ZDOTDIR/plugins.zsh"      # Plugin management

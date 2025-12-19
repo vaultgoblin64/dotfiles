@@ -13,3 +13,7 @@ alias l='lsd -CF'
 alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
+
+# Claude Clode
+alias ccc='claude -c --dangerously-skip-permissions'
+alias ccr='claude -r --dangerously-skip-permissions'

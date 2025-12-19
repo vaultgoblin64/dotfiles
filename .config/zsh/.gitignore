@@ -4,3 +4,6 @@ plugins/
 # Compiled files
 *.zwc
 .zcompdump
+
+# History (private)
+.zsh_history
